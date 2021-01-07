@@ -1,0 +1,24 @@
+{
+  "name": "rhymebot",
+  "version": "1.0.0",
+  "description": "A simple Discord bot that finds rhyming words!",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calebrodgers/RhymeBot.git"
+  },
+  "author": "Caleb Rodgers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calebrodgers/RhymeBot/issues"
+  },
+  "homepage": "https://github.com/calebrodgers/RhymeBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}

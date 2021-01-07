@@ -1,2 +1,3 @@
-# RhymeBot
-A simple Discord bot that finds rhyming words
+# 📝 RhymeBot
+
+A simple Discord bot that finds rhyming words!
